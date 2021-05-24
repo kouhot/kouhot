@@ -1,16 +1,18 @@
-### Hi there 👋
+### HI 👋, I'm kouhot
 
-<!--
-**kouhot/kouhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/kouhot?label=Follow&style=social)](https://github.com/kouhot)
 
-Here are some ideas to get you started:
+![kouhot's github stats](https://github-readme-stats.vercel.app/api?username=kouhot&show_icons=true&count_private=true&line_height=20&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Mainly 💙 💻 ...
+
+* [Ruby](https://www.ruby-lang.org/)
+* [Go](https://golang.org)
+* [TypeScript](https://www.typescriptlang.org/)
+* [ReactNative](https://reactnative.dev/)
+* [Blockchain](https://ethereum.org/)
+* Cloud(AWS/Alibaba/GoogleCloud)
+* DevOps / ChatOps
+* UI/UX
